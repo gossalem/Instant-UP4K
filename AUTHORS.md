@@ -1,4 +1,5 @@
-# naweak
+## naweak
 * Запилил ядро
-# wolfram00
+
+## wolfram00
 * Запилил пепяку
